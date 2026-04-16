@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -511,10 +511,9 @@
       <div class="project-card">
         <div class="project-video-wrap">
           <video
-            src="Avatar__2___1_.mp4"
+            src="https://github.com/mariocm13/Portfolio1/releases/download/v1.0/Avatar.2.1.mp4"
             controls
             preload="metadata"
-            poster=""
           ></video>
         </div>
         <div class="project-body">
